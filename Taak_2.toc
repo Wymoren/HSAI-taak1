@@ -1,0 +1,11 @@
+\contentsline {section}{\numberline {1}Inleiding}{3}
+\contentsline {section}{\numberline {2}Bespreking Niels}{4}
+\contentsline {subsection}{\numberline {2.1}Meetbare objectieven}{4}
+\contentsline {subsection}{\numberline {2.2}Ontwerpprincipes van Shneidermann}{4}
+\contentsline {section}{\numberline {3}Bespreking Bram}{5}
+\contentsline {subsection}{\numberline {3.1}Meetbare objectieven}{5}
+\contentsline {subsection}{\numberline {3.2}Ontwerpprincipes van Shneidermann}{5}
+\contentsline {section}{\numberline {4}Bespreking Dylan}{6}
+\contentsline {subsection}{\numberline {4.1}Meetbare objectieven}{6}
+\contentsline {subsection}{\numberline {4.2}Ontwerpprincipes van Shneidermann}{6}
+\contentsline {section}{\numberline {5}Conclusie}{7}

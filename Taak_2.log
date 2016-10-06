@@ -1,0 +1,140 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.10.12)  6 OCT 2016 16:10
+entering extended mode
+**Taak_2.tex
+(Taak_2.tex
+LaTeX2e <2015/01/01> patch level 2
+Babel <3.9m> and hyphenation patterns for 69 languages loaded.
+("C:\Program Files (x86)\miktex\tex\latex\base\article.cls"
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Program Files (x86)\miktex\tex\latex\base\size11.clo"
+File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files (x86)\miktex\tex\latex\graphics\graphicx.sty"
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\miktex\tex\latex\graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Program Files (x86)\miktex\tex\latex\graphics\graphics.sty"
+Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\miktex\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files (x86)\miktex\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 94.
+
+("C:\Program Files (x86)\miktex\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files (x86)\miktex\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+("C:\Program Files (x86)\miktex\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count87
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+("C:\Program Files (x86)\miktex\tex\latex\ltxmisc\parskip.sty"
+Package: parskip 2001/04/09 non-zero parskip adjustments
+)
+("C:\Program Files (x86)\miktex\tex\latex\float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count88
+\float@exts=\toks15
+\float@box=\box26
+\@float@everytoks=\toks16
+\@floatcapt=\box27
+) (Taak_2.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+
+("C:\Program Files (x86)\miktex\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count89
+\scratchdimen=\dimen105
+\scratchbox=\box28
+\nofMPsegments=\count90
+\nofMParguments=\count91
+\everyMPshowfont=\toks17
+\MPscratchCnt=\count92
+\MPscratchDim=\dimen106
+\MPnumerator=\count93
+\makeMPintoPDFobject=\count94
+\everyMPtoPDFconversion=\toks18
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 37.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 37.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 37.
+ <uhasselt-logo.jpg, id=1, 1185.42876pt x 342.27875pt>
+File: uhasselt-logo.jpg Graphic file (type jpg)
+
+<use uhasselt-logo.jpg>
+Package pdftex.def Info: uhasselt-logo.jpg used on input line 48.
+(pdftex.def)             Requested size: 85.35826pt x 24.64613pt.
+ [1
+
+{C:/Users/Niels/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./uhasselt-
+logo.jpg>] [1]
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no   in font cmr10!
+ [2]
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no   in font cmr10!
+ [3]
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no   in font cmr10!
+ [4]
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no   in font cmr10!
+ [5] (Taak_2.aux) ) 
+Here is how much of TeX's memory you used:
+ 1205 strings out of 493673
+ 15767 string characters out of 3143149
+ 69758 words of memory out of 3000000
+ 4586 multiletter control sequences out of 15000+200000
+ 9746 words of font info for 34 fonts, out of 3000000 for 9000
+ 1025 hyphenation exceptions out of 8191
+ 27i,4n,19p,436b,252s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files (x86)/miktex/fonts/type1/public/amsfonts/c
+m/cmbx12.pfb><C:/Program Files (x86)/miktex/fonts/type1/public/amsfonts/cm/cmcs
+c10.pfb><C:/Program Files (x86)/miktex/fonts/type1/public/amsfonts/cm/cmr10.pfb
+><C:/Program Files (x86)/miktex/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Pr
+ogram Files (x86)/miktex/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on Taak_2.pdf (6 pages, 107804 bytes).
+PDF statistics:
+ 42 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+
