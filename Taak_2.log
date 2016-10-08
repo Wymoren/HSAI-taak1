@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.10.12)  6 OCT 2016 16:10
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.10.12)  8 OCT 2016 21:06
 entering extended mode
-**Taak_2.tex
-(Taak_2.tex
+**taak_2.tex
+(taak_2.tex
 LaTeX2e <2015/01/01> patch level 2
 Babel <3.9m> and hyphenation patterns for 69 languages loaded.
 ("C:\Program Files (x86)\miktex\tex\latex\base\article.cls"
@@ -63,7 +63,7 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \float@box=\box26
 \@float@everytoks=\toks16
 \@floatcapt=\box27
-) (Taak_2.aux)
+) (taak_2.aux)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
 LaTeX Font Info:    ... okay on input line 16.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
@@ -97,44 +97,106 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 37.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 37.
- <uhasselt-logo.jpg, id=1, 1185.42876pt x 342.27875pt>
-File: uhasselt-logo.jpg Graphic file (type jpg)
+ <UHasselt-logo.jpg, id=1, 1185.42876pt x 342.27875pt>
+File: UHasselt-logo.jpg Graphic file (type jpg)
 
-<use uhasselt-logo.jpg>
-Package pdftex.def Info: uhasselt-logo.jpg used on input line 48.
+<use UHasselt-logo.jpg>
+Package pdftex.def Info: UHasselt-logo.jpg used on input line 48.
 (pdftex.def)             Requested size: 85.35826pt x 24.64613pt.
  [1
 
-{C:/Users/Niels/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./uhasselt-
+{C:/Users/Niels/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./UHasselt-
 logo.jpg>] [1]
 Missing character: There is no Ã in font cmr10!
 Missing character: There is no   in font cmr10!
  [2]
 Missing character: There is no Ã in font cmr10!
-Missing character: There is no   in font cmr10!
+Missing character: There is no « in font cmr10!
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no © in font cmr10!
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no © in font cmr10!
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no ¯ in font cmr10!
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no ¯ in font cmr10!
  [3]
+<NoConnection.jpg, id=21, 465.99094pt x 241.65282pt>
+File: NoConnection.jpg Graphic file (type jpg)
+ <use NoConnection.jpg>
+Package pdftex.def Info: NoConnection.jpg used on input line 78.
+(pdftex.def)             Requested size: 251.9989pt x 130.68231pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--83
+\OT1/cmr/m/n/10.95 ers, ge-bruik-ers met gemid-delde ken-nis en ex-pert ge-brui
+k-ers.
+ []
+
+[4] <apps.png, id=25, 1204.5pt x 542.77782pt>
+File: apps.png Graphic file (type png)
+ <use apps.png>
+Package pdftex.def Info: apps.png used on input line 89.
+(pdftex.def)             Requested size: 323.9978pt x 145.99706pt.
+ [5 <./NoConnection.jpg>]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 96.
+ ("C:\Program Files (x86)\miktex\tex\latex\base\omscmr.fd"
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 96.
+
+<Tabs_Chrome.png, id=30, 1227.83719pt x 67.0003pt>
+File: Tabs_Chrome.png Graphic file (type png)
+ <use Tabs_Chrome.png>
+Package pdftex.def Info: Tabs_Chrome.png used on input line 101.
+(pdftex.def)             Requested size: 323.9978pt x 17.67934pt.
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no « in font cmr10!
+
+<No_Changes.png, id=31, 345.54094pt x 118.19156pt>
+File: No_Changes.png Graphic file (type png)
+ <use No_Changes.png>
+Package pdftex.def Info: No_Changes.png used on input line 113.
+(pdftex.def)             Requested size: 323.9978pt x 110.82414pt.
+
+[6 <./apps.png> <./Tabs_Chrome.png>]
+<Chrome-Advanced.png, id=39, 501.875pt x 420.57124pt>
+File: Chrome-Advanced.png Graphic file (type png)
+
+<use Chrome-Advanced.png>
+Package pdftex.def Info: Chrome-Advanced.png used on input line 125.
+(pdftex.def)             Requested size: 323.9978pt x 271.52628pt.
+ <Loading.png, id=40, 111.41624pt x 24.84282pt>
+File: Loading.png Graphic file (type png)
+
+<use Loading.png>
+Package pdftex.def Info: Loading.png used on input line 132.
+(pdftex.def)             Requested size: 143.9978pt x 32.11028pt.
+ [7 <./No_Changes.png>] [8 <./Chrome-Advanced.png> <./Loading.png>] [9]
 Missing character: There is no Ã in font cmr10!
 Missing character: There is no   in font cmr10!
- [4]
+ [10]
 Missing character: There is no Ã in font cmr10!
 Missing character: There is no   in font cmr10!
- [5] (Taak_2.aux) ) 
+ [11] (taak_2.aux) ) 
 Here is how much of TeX's memory you used:
- 1205 strings out of 493673
- 15767 string characters out of 3143149
- 69758 words of memory out of 3000000
- 4586 multiletter control sequences out of 15000+200000
- 9746 words of font info for 34 fonts, out of 3000000 for 9000
+ 1262 strings out of 493673
+ 16717 string characters out of 3143149
+ 72806 words of memory out of 3000000
+ 4633 multiletter control sequences out of 15000+200000
+ 10054 words of font info for 35 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 27i,4n,19p,436b,252s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files (x86)/miktex/fonts/type1/public/amsfonts/c
-m/cmbx12.pfb><C:/Program Files (x86)/miktex/fonts/type1/public/amsfonts/cm/cmcs
-c10.pfb><C:/Program Files (x86)/miktex/fonts/type1/public/amsfonts/cm/cmr10.pfb
-><C:/Program Files (x86)/miktex/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Pr
-ogram Files (x86)/miktex/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on Taak_2.pdf (6 pages, 107804 bytes).
+ 27i,6n,19p,958b,277s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files (x86)/miktex/fonts/type1/public/amsfonts/
+cm/cmbx10.pfb><C:/Program Files (x86)/miktex/fonts/type1/public/amsfonts/cm/cmb
+x12.pfb><C:/Program Files (x86)/miktex/fonts/type1/public/amsfonts/cm/cmcsc10.p
+fb><C:/Program Files (x86)/miktex/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/
+Program Files (x86)/miktex/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program
+ Files (x86)/miktex/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files
+ (x86)/miktex/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on taak_2.pdf (12 pages, 289521 bytes).
 PDF statistics:
- 42 PDF objects out of 1000 (max. 8388607)
+ 80 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 36 words of extra memory for PDF output out of 10000 (max. 10000000)
 
