@@ -1,0 +1,121 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdftex 2016.10.9)  9 OCT 2016 20:20
+entering extended mode
+**"C:/Users/Niels/Desktop/Taak 1/HSAI-taak1/Analyse.bib"
+("C:/Users/Niels/Desktop/Taak 1/HSAI-taak1/Analyse.bib"
+Overfull \hbox (132.27402pt too wide) in paragraph at lines 1--8
+[]\tenrm @onlineFlowchart, ti-tle = Flowchart def-i-ni-tion, month = maart, yea
+r = 2016, day = 8, note = https://en.wikipedia.org/wiki/Flowchart,|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm @
+.\tenrm o
+.\tenrm n
+.\tenrm l
+.etc.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--8
+
+
+\hbox(0.0+0.0)x469.75499
+.\glue(\rightskip) 0.0
+
+
+Overfull \hbox (82.99611pt too wide) in paragraph at lines 18--24
+[]\tenrm @onlineVisio, ti-tle = Mi-crosoft Vi-sio, au-thor = Shape-ware Cor-po-
+ra-tion, year = 2016, note = https://products.office.com/nl-|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm @
+.\tenrm o
+.\tenrm n
+.\tenrm l
+.etc.
+
+
+Overfull \hbox (82.77406pt too wide) in paragraph at lines 34--39
+[]\tenrm @onlineEnumMap, ti-tle = EnumMap tu-to-rial, au-thor = Javin Paul, not
+e = http://javarevisited.blogspot.be/2012/09/what-|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm @
+.\tenrm o
+.\tenrm n
+.\tenrm l
+.etc.
+
+
+Overfull \hbox (176.63524pt too wide) in paragraph at lines 40--45
+[]\tenrm @onlinePath2D, ti-tle = Or-a-cle Path2D, au-thor = Team Or-a-cle, note
+ = https://docs.oracle.com/javase/7/docs/api/java/awt/geom/Path2D.html,|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm @
+.\tenrm o
+.\tenrm n
+.\tenrm l
+.etc.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--45
+
+
+\hbox(0.0+0.0)x469.75499
+.\glue(\rightskip) 0.0
+
+
+Overfull \hbox (205.28798pt too wide) in paragraph at lines 46--52
+[]\tenrm @onlineGraphics2D, ti-tle = Or-a-cle Graph-ics2D, au-thor = Team Or-a-
+cle, note =  https://docs.oracle.com/javase/7/docs/api/java/awt/Graphics2D.html
+,|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm @
+.\tenrm o
+.\tenrm n
+.\tenrm l
+.etc.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--52
+
+
+\hbox(0.0+0.0)x469.75499
+.\glue(\rightskip) 0.0
+
+
+Overfull \hbox (121.9823pt too wide) in paragraph at lines 53--57
+[]\tenrm @onlineSaveAsPNG, ti-tle = Java2s, note = http://www.java2s.com/Code/J
+ava/2D-Graphics-GUI/DrawanImageandsavetopng.htm,|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm @
+.\tenrm o
+.\tenrm n
+.\tenrm l
+.etc.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--57
+
+
+\hbox(0.0+0.0)x469.75499
+.\glue(\rightskip) 0.0
+
+! Undefined control sequence.
+l.61 ...utorialspoint.com/java/java\textunderscore
+                                                   files\textunderscore io.h...
+
+? 
+! Emergency stop.
+l.61 ...utorialspoint.com/java/java\textunderscore
+                                                   files\textunderscore io.h...
+End of file on the terminal!
+
+!  ==> Fatal error occurred, no output PDF file produced!

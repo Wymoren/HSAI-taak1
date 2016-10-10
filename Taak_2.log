@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.10.12)  8 OCT 2016 21:06
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.10.12)  10 OCT 2016 19:14
 entering extended mode
 **taak_2.tex
 (taak_2.tex
@@ -6,8 +6,8 @@ LaTeX2e <2015/01/01> patch level 2
 Babel <3.9m> and hyphenation patterns for 69 languages loaded.
 ("C:\Program Files (x86)\miktex\tex\latex\base\article.cls"
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
-("C:\Program Files (x86)\miktex\tex\latex\base\size11.clo"
-File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+("C:\Program Files (x86)\miktex\tex\latex\base\size12.clo"
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
 \c@section=\count80
@@ -64,18 +64,18 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@float@everytoks=\toks16
 \@floatcapt=\box27
 ) (taak_2.aux)
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
 
 ("C:\Program Files (x86)\miktex\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -92,111 +92,270 @@ LaTeX Font Info:    ... okay on input line 16.
 \everyMPtoPDFconversion=\toks18
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 37.
+(Font)              <12> on input line 40.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 37.
+(Font)              <8> on input line 40.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 37.
+(Font)              <6> on input line 40.
  <UHasselt-logo.jpg, id=1, 1185.42876pt x 342.27875pt>
 File: UHasselt-logo.jpg Graphic file (type jpg)
 
 <use UHasselt-logo.jpg>
-Package pdftex.def Info: UHasselt-logo.jpg used on input line 48.
+Package pdftex.def Info: UHasselt-logo.jpg used on input line 51.
 (pdftex.def)             Requested size: 85.35826pt x 24.64613pt.
  [1
 
 {C:/Users/Niels/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./UHasselt-
-logo.jpg>] [1]
-Missing character: There is no Ã in font cmr10!
-Missing character: There is no   in font cmr10!
- [2]
-Missing character: There is no Ã in font cmr10!
-Missing character: There is no « in font cmr10!
-Missing character: There is no Ã in font cmr10!
-Missing character: There is no © in font cmr10!
-Missing character: There is no Ã in font cmr10!
-Missing character: There is no © in font cmr10!
-Missing character: There is no Ã in font cmr10!
-Missing character: There is no ¯ in font cmr10!
-Missing character: There is no Ã in font cmr10!
-Missing character: There is no ¯ in font cmr10!
+logo.jpg>] (taak_2.toc)
+\tf@toc=\write3
+ [1] [2]
+<search.png, id=16, 570.63188pt x 233.37187pt>
+File: search.png Graphic file (type png)
+ <use search.png>
+Package pdftex.def Info: search.png used on input line 70.
+(pdftex.def)             Requested size: 390.0pt x 159.4991pt.
  [3]
-<NoConnection.jpg, id=21, 465.99094pt x 241.65282pt>
-File: NoConnection.jpg Graphic file (type jpg)
- <use NoConnection.jpg>
-Package pdftex.def Info: NoConnection.jpg used on input line 78.
-(pdftex.def)             Requested size: 251.9989pt x 130.68231pt.
+<autocomplete.png, id=20, 261.22594pt x 47.42719pt>
+File: autocomplete.png Graphic file (type png)
+ <use autocomplete.png>
+Package pdftex.def Info: autocomplete.png used on input line 79.
+(pdftex.def)             Requested size: 272.99881pt x 49.56552pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 73--83
-\OT1/cmr/m/n/10.95 ers, ge-bruik-ers met gemid-delde ken-nis en ex-pert ge-brui
-k-ers.
- []
+<smallUI.png, id=21, 434.37282pt x 51.94406pt>
+File: smallUI.png Graphic file (type png)
+ <use smallUI.png>
+Package pdftex.def Info: smallUI.png used on input line 90.
+(pdftex.def)             Requested size: 312.00119pt x 37.3125pt.
 
-[4] <apps.png, id=25, 1204.5pt x 542.77782pt>
-File: apps.png Graphic file (type png)
- <use apps.png>
-Package pdftex.def Info: apps.png used on input line 89.
-(pdftex.def)             Requested size: 323.9978pt x 145.99706pt.
- [5 <./NoConnection.jpg>]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 96.
- ("C:\Program Files (x86)\miktex\tex\latex\base\omscmr.fd"
+<extensions.png, id=22, 575.90157pt x 203.25937pt>
+File: extensions.png Graphic file (type png)
+ <use extensions.png>
+Package pdftex.def Info: extensions.png used on input line 96.
+(pdftex.def)             Requested size: 350.99762pt x 123.88568pt.
+
+<helpcentrum.png, id=23, 615.80063pt x 345.54094pt>
+File: helpcentrum.png Graphic file (type png)
+ <use helpcentrum.png>
+Package pdftex.def Info: helpcentrum.png used on input line 102.
+(pdftex.def)             Requested size: 312.00119pt x 175.07413pt.
+
+<shortkeys.png, id=24, 709.90219pt x 189.70876pt>
+File: shortkeys.png Graphic file (type png)
+ <use shortkeys.png>
+Package pdftex.def Info: shortkeys.png used on input line 108.
+(pdftex.def)             Requested size: 312.00119pt x 83.37947pt.
+ [4 <./search.png> <./autocomplete.png>]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 114.
+
+
+("C:\Program Files (x86)\miktex\tex\latex\base\omscmr.fd"
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 96.
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 114.
 
-<Tabs_Chrome.png, id=30, 1227.83719pt x 67.0003pt>
+<back.png, id=28, 56.46094pt x 24.84282pt>
+File: back.png Graphic file (type png)
+ <use back.png>
+Package pdftex.def Info: back.png used on input line 119.
+(pdftex.def)             Requested size: 39.00238pt x 17.16202pt.
+ [5 <./smallUI.png> <./extensions.png>] [6 <./helpcentrum.png> <./shortkeys.png
+>] [7 <./back.png>]
+<incognito.png, id=40, 371.88937pt x 301.8778pt>
+File: incognito.png Graphic file (type png)
+ <use incognito.png>
+Package pdftex.def Info: incognito.png used on input line 132.
+(pdftex.def)             Requested size: 312.00119pt x 253.2716pt.
+
+<imgDownload.png, id=41, 265.59225pt x 104.18925pt>
+File: imgDownload.png Graphic file (type png)
+ <use imgDownload.png>
+Package pdftex.def Info: imgDownload.png used on input line 141.
+(pdftex.def)             Requested size: 272.99881pt x 107.10625pt.
+
+[8 <./incognito.png>] <history.png, id=46, 494.59781pt x 224.33812pt>
+File: history.png Graphic file (type png)
+
+<use history.png>
+Package pdftex.def Info: history.png used on input line 154.
+(pdftex.def)             Requested size: 390.0pt x 176.89313pt.
+ [9 <./imgDownload.png> <./history.png>] [10]
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no « in font cmr12!
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no © in font cmr12!
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no © in font cmr12!
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no ¯ in font cmr12!
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no ¯ in font cmr12!
+ [11]
+<NoConnection.jpg, id=57, 465.99094pt x 241.65282pt>
+File: NoConnection.jpg Graphic file (type jpg)
+ <use NoConnection.jpg>
+Package pdftex.def Info: NoConnection.jpg used on input line 183.
+(pdftex.def)             Requested size: 272.99881pt x 141.57466pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 178--188
+\OT1/cmr/m/n/12 ers, ge-bruik-ers met gemid-delde ken-nis en ex-pert ge-bruik-e
+rs.
+ []
+
+[12] <apps.png, id=62, 1204.5pt x 542.77782pt>
+File: apps.png Graphic file (type png)
+ <use apps.png>
+Package pdftex.def Info: apps.png used on input line 194.
+(pdftex.def)             Requested size: 350.99762pt x 158.17177pt.
+ [13 <./NoConnection.jpg>] <Tabs_Chrome.png, id=66, 1227.83719pt x 67.0003pt>
 File: Tabs_Chrome.png Graphic file (type png)
- <use Tabs_Chrome.png>
-Package pdftex.def Info: Tabs_Chrome.png used on input line 101.
-(pdftex.def)             Requested size: 323.9978pt x 17.67934pt.
-Missing character: There is no Ã in font cmr10!
-Missing character: There is no « in font cmr10!
 
-<No_Changes.png, id=31, 345.54094pt x 118.19156pt>
+<use Tabs_Chrome.png>
+Package pdftex.def Info: Tabs_Chrome.png used on input line 206.
+(pdftex.def)             Requested size: 350.99762pt x 19.15253pt.
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no « in font cmr12!
+ <No_Changes.png, id=67, 345.54094pt x 118.19156pt>
 File: No_Changes.png Graphic file (type png)
- <use No_Changes.png>
-Package pdftex.def Info: No_Changes.png used on input line 113.
-(pdftex.def)             Requested size: 323.9978pt x 110.82414pt.
 
-[6 <./apps.png> <./Tabs_Chrome.png>]
-<Chrome-Advanced.png, id=39, 501.875pt x 420.57124pt>
+<use No_Changes.png>
+Package pdftex.def Info: No_Changes.png used on input line 218.
+(pdftex.def)             Requested size: 350.99762pt x 120.05965pt.
+ [14 <./apps.png> <./Tabs_Chrome.png>] [15 <./No_Changes.png>] <Chrome-Advanced
+.png, id=76, 501.875pt x 420.57124pt>
 File: Chrome-Advanced.png Graphic file (type png)
 
 <use Chrome-Advanced.png>
-Package pdftex.def Info: Chrome-Advanced.png used on input line 125.
-(pdftex.def)             Requested size: 323.9978pt x 271.52628pt.
- <Loading.png, id=40, 111.41624pt x 24.84282pt>
+Package pdftex.def Info: Chrome-Advanced.png used on input line 230.
+(pdftex.def)             Requested size: 350.99762pt x 294.14758pt.
+ <Loading.png, id=77, 111.41624pt x 24.84282pt>
 File: Loading.png Graphic file (type png)
 
 <use Loading.png>
-Package pdftex.def Info: Loading.png used on input line 132.
-(pdftex.def)             Requested size: 143.9978pt x 32.11028pt.
- [7 <./No_Changes.png>] [8 <./Chrome-Advanced.png> <./Loading.png>] [9]
-Missing character: There is no Ã in font cmr10!
-Missing character: There is no   in font cmr10!
- [10]
-Missing character: There is no Ã in font cmr10!
-Missing character: There is no   in font cmr10!
- [11] (taak_2.aux) ) 
+Package pdftex.def Info: Loading.png used on input line 237.
+(pdftex.def)             Requested size: 155.99762pt x 34.78612pt.
+ [16 <./Chrome-Advanced.png>] [17 <./Loading.png>]
+<imgSimpleUI.png, id=85, 575.14874pt x 75.8835pt>
+File: imgSimpleUI.png Graphic file (type png)
+ <use imgSimpleUI.png>
+Package pdftex.def Info: imgSimpleUI.png used on input line 263.
+(pdftex.def)             Requested size: 350.99762pt x 46.31085pt.
+
+[18 <./imgSimpleUI.png>] <imgPaginaLaden.png, id=91, 275.8305pt x 51.19125pt>
+File: imgPaginaLaden.png Graphic file (type png)
+
+<use imgPaginaLaden.png>
+Package pdftex.def Info: imgPaginaLaden.png used on input line 276.
+(pdftex.def)             Requested size: 350.99762pt x 65.14494pt.
+
+Overfull \hbox (0.67928pt too wide) in paragraph at lines 273--284
+\OT1/cmr/m/n/12 Als we ge-bruik-ers in-de-len in groepen naarge-lang hun ken-ni
+s over web-browsers,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 273--284
+\OT1/cmr/m/n/12 meest ge-bruikte func-ties samen te voe-gen in een menu.
+ []
+
+[19 <./imgPaginaLaden.png>]
+<imgShortcuts.png, id=96, 237.88875pt x 287.8755pt>
+File: imgShortcuts.png Graphic file (type png)
+ <use imgShortcuts.png>
+Package pdftex.def Info: imgShortcuts.png used on input line 295.
+(pdftex.def)             Requested size: 155.99762pt x 188.78604pt.
+
+<imgVertaal.png, id=97, 202.356pt x 80.09924pt>
+File: imgVertaal.png Graphic file (type png)
+ <use imgVertaal.png>
+Package pdftex.def Info: imgVertaal.png used on input line 304.
+(pdftex.def)             Requested size: 155.99762pt x 61.75237pt.
+File: imgDownload.png Graphic file (type png)
+
+<use imgDownload.png>
+Package pdftex.def Info: imgDownload.png used on input line 313.
+(pdftex.def)             Requested size: 155.99762pt x 61.19925pt.
+
+Overfull \hbox (6.70653pt too wide) in paragraph at lines 317--320
+\OT1/cmr/m/n/12 Het boven-staande voor-beeld is ook hier van toepass-ing. Chrom
+e probeert
+ []
+
+[20] [21 <./imgShortcuts.png> <./imgVertaal.png>]
+<imgMiniatuur.png, id=106, 358.941pt x 245.718pt>
+File: imgMiniatuur.png Graphic file (type png)
+ <use imgMiniatuur.png>
+Package pdftex.def Info: imgMiniatuur.png used on input line 325.
+(pdftex.def)             Requested size: 350.99762pt x 240.28082pt.
+
+<imgVertaalAltijd.png, id=107, 202.95825pt x 109.00725pt>
+File: imgVertaalAltijd.png Graphic file (type png)
+
+<use imgVertaalAltijd.png>
+Package pdftex.def Info: imgVertaalAltijd.png used on input line 334.
+(pdftex.def)             Requested size: 155.99762pt x 83.78613pt.
+ [22 <./imgMiniatuur.png>] [23 <./imgVertaalAltijd.png>] <marketshare.png, id=1
+16, 659.46375pt x 250.68657pt>
+File: marketshare.png Graphic file (type png)
+ <use marketshare.png>
+Package pdftex.def Info: marketshare.png used on input line 353.
+(pdftex.def)             Requested size: 429.00238pt x 163.08203pt.
+
+Overfull \hbox (39.00238pt too wide) in paragraph at lines 353--354
+ [][] 
+ []
+
+
+Overfull \hbox (1.43205pt too wide) in paragraph at lines 350--357
+\OT1/cmr/m/n/12 Door het grote aan-bod aan gratis browsers is er veel con-cur-r
+en-tie voor Chrome
+ []
+
+[24] [25 <./marketshare.png>] [26] [27] [28] (taak_2.bbl
+Underfull \hbox (badness 2608) in paragraph at lines 4--8
+[]\OT1/cmr/m/n/12 Net Ap-pli-ca-tions.  Net mar-ket share of browsers on desk-t
+ops.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--14
+[]\OT1/cmr/m/n/12 Google.  Short-cuts in google chrome.
+ []
+
+
+Underfull \hbox (badness 1033) in paragraph at lines 10--14
+\OT1/cmr/m/n/12 https://support.google.com/chrome/answer/157179?hl=en.  Ac-cess
+ed:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--20
+[]\OT1/cmr/m/n/12 Google.  Chrome web store: ex-ten-sions.
+ []
+
+
+Underfull \hbox (badness 2865) in paragraph at lines 16--20
+\OT1/cmr/m/n/12 https://chrome.google.com/webstore/category/extensions.  Ac-ces
+sed:
+ []
+
+) [29] (taak_2.aux) ) 
 Here is how much of TeX's memory you used:
- 1262 strings out of 493673
- 16717 string characters out of 3143149
- 72806 words of memory out of 3000000
- 4633 multiletter control sequences out of 15000+200000
- 10054 words of font info for 35 fonts, out of 3000000 for 9000
+ 1376 strings out of 493673
+ 18588 string characters out of 3143149
+ 74990 words of memory out of 3000000
+ 4724 multiletter control sequences out of 15000+200000
+ 10051 words of font info for 35 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 27i,6n,19p,958b,277s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files (x86)/miktex/fonts/type1/public/amsfonts/
-cm/cmbx10.pfb><C:/Program Files (x86)/miktex/fonts/type1/public/amsfonts/cm/cmb
-x12.pfb><C:/Program Files (x86)/miktex/fonts/type1/public/amsfonts/cm/cmcsc10.p
-fb><C:/Program Files (x86)/miktex/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/
-Program Files (x86)/miktex/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program
- Files (x86)/miktex/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files
- (x86)/miktex/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on taak_2.pdf (12 pages, 289521 bytes).
+ 27i,6n,19p,1309b,278s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files (x86)/miktex/fonts/type1/public/amsfonts
+/cm/cmbx12.pfb><C:/Program Files (x86)/miktex/fonts/type1/public/amsfonts/cm/cm
+csc10.pfb><C:/Program Files (x86)/miktex/fonts/type1/public/amsfonts/cm/cmr12.p
+fb><C:/Program Files (x86)/miktex/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:
+/Program Files (x86)/miktex/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on taak_2.pdf (30 pages, 674502 bytes).
 PDF statistics:
- 80 PDF objects out of 1000 (max. 8388607)
+ 153 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 36 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 121 words of extra memory for PDF output out of 10000 (max. 10000000)
 

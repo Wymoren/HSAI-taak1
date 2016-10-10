@@ -1,11 +1,33 @@
-\contentsline {section}{\numberline {1}Inleiding}{3}
-\contentsline {section}{\numberline {2}Bespreking Niels}{4}
-\contentsline {subsection}{\numberline {2.1}Meetbare objectieven}{4}
+\contentsline {section}{\numberline {1}Inleiding}{2}
+\contentsline {section}{\numberline {2}Bespreking Niels}{3}
+\contentsline {subsection}{\numberline {2.1}Meetbare objectieven}{3}
+\contentsline {subsubsection}{\numberline {2.1.1}Subjective satisfaction}{3}
+\contentsline {subsubsection}{\numberline {2.1.2}Rate of errors by users}{3}
+\contentsline {subsubsection}{\numberline {2.1.3}Speed of Performance}{4}
 \contentsline {subsection}{\numberline {2.2}Ontwerpprincipes van Shneidermann}{4}
-\contentsline {section}{\numberline {3}Bespreking Bram}{5}
-\contentsline {subsection}{\numberline {3.1}Meetbare objectieven}{5}
-\contentsline {subsection}{\numberline {3.2}Ontwerpprincipes van Shneidermann}{5}
-\contentsline {section}{\numberline {4}Bespreking Dylan}{6}
-\contentsline {subsection}{\numberline {4.1}Meetbare objectieven}{6}
-\contentsline {subsection}{\numberline {4.2}Ontwerpprincipes van Shneidermann}{6}
-\contentsline {section}{\numberline {5}Conclusie}{7}
+\contentsline {subsubsection}{\numberline {2.2.1}Herken de diversiteit}{5}
+\contentsline {subsubsection}{\numberline {2.2.2}De acht gouden regels voor interface design}{7}
+\contentsline {section}{\numberline {3}Bespreking Bram}{11}
+\contentsline {subsection}{\numberline {3.1}Meetbare objectieven}{11}
+\contentsline {subsubsection}{\numberline {3.1.1}Subjective Satisfaction}{11}
+\contentsline {subsubsection}{\numberline {3.1.2}Speed of Performance}{11}
+\contentsline {subsubsection}{\numberline {3.1.3}Error Rate}{12}
+\contentsline {subsection}{\numberline {3.2}Ontwerpprincipes van Shneidermann}{12}
+\contentsline {subsubsection}{\numberline {3.2.1}Herken de diversiteit}{12}
+\contentsline {subsubsection}{\numberline {3.2.2}De acht gouden regels voor interface design}{14}
+\contentsline {section}{\numberline {4}Bespreking Dylan}{18}
+\contentsline {subsection}{\numberline {4.1}Meetbare objectieven}{18}
+\contentsline {subsubsection}{\numberline {4.1.1}Subjective satisfaction}{18}
+\contentsline {subsubsection}{\numberline {4.1.2}Speed of performance}{18}
+\contentsline {subsubsection}{\numberline {4.1.3}Rate of errors by users}{19}
+\contentsline {subsection}{\numberline {4.2}Ontwerpprincipes van Shneidermann}{19}
+\contentsline {subsubsection}{\numberline {4.2.1}Herken de diversiteit}{19}
+\contentsline {subsubsection}{\numberline {4.2.2}De acht gouden regels voor interface design}{20}
+\contentsline {section}{\numberline {5}Conclusie}{24}
+\contentsline {subsection}{\numberline {5.1}Meetbare objectieven}{24}
+\contentsline {subsubsection}{\numberline {5.1.1}Objective satisfaction}{24}
+\contentsline {subsubsection}{\numberline {5.1.2}Speed of performance}{25}
+\contentsline {subsubsection}{\numberline {5.1.3}Rate of errors by users}{25}
+\contentsline {subsection}{\numberline {5.2}Ontwerpprincipes van Shneidermann}{26}
+\contentsline {subsubsection}{\numberline {5.2.1}Herken de diversiteit}{26}
+\contentsline {subsubsection}{\numberline {5.2.2}De acht gouden regels voor interface design}{26}
