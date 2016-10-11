@@ -1,12 +1,12 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.10.12)  10 OCT 2016 19:14
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.10.5)  11 OCT 2016 12:03
 entering extended mode
-**taak_2.tex
-(taak_2.tex
-LaTeX2e <2015/01/01> patch level 2
-Babel <3.9m> and hyphenation patterns for 69 languages loaded.
-("C:\Program Files (x86)\miktex\tex\latex\base\article.cls"
+**Taak_2.tex
+(Taak_2.tex
+LaTeX2e <2014/05/01>
+Babel <3.9l> and hyphenation patterns for 68 languages loaded.
+("D:\Program Files\LaTeX\MiKTeX 2.9\tex\latex\base\article.cls"
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
-("C:\Program Files (x86)\miktex\tex\latex\base\size12.clo"
+("D:\Program Files\LaTeX\MiKTeX 2.9\tex\latex\base\size12.clo"
 File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
@@ -21,31 +21,31 @@ File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-("C:\Program Files (x86)\miktex\tex\latex\graphics\graphicx.sty"
+("D:\Program Files\LaTeX\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
 Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
 
-("C:\Program Files (x86)\miktex\tex\latex\graphics\keyval.sty"
+("D:\Program Files\LaTeX\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks14
 )
-("C:\Program Files (x86)\miktex\tex\latex\graphics\graphics.sty"
+("D:\Program Files\LaTeX\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
 Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
 
-("C:\Program Files (x86)\miktex\tex\latex\graphics\trig.sty"
+("D:\Program Files\LaTeX\MiKTeX 2.9\tex\latex\graphics\trig.sty"
 Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 )
-("C:\Program Files (x86)\miktex\tex\latex\00miktex\graphics.cfg"
+("D:\Program Files\LaTeX\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
 File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
 )
-Package graphics Info: Driver file: pdftex.def on input line 94.
+Package graphics Info: Driver file: pdftex.def on input line 91.
 
-("C:\Program Files (x86)\miktex\tex\latex\pdftex-def\pdftex.def"
+("D:\Program Files\LaTeX\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
 File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
 
-("C:\Program Files (x86)\miktex\tex\generic\oberdiek\infwarerr.sty"
+("D:\Program Files\LaTeX\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
 Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
 )
-("C:\Program Files (x86)\miktex\tex\generic\oberdiek\ltxcmds.sty"
+("D:\Program Files\LaTeX\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
 Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 )
 \Gread@gobject=\count87
@@ -53,17 +53,17 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen103
 \Gin@req@width=\dimen104
 )
-("C:\Program Files (x86)\miktex\tex\latex\ltxmisc\parskip.sty"
+("D:\Program Files\LaTeX\MiKTeX 2.9\tex\latex\ltxmisc\parskip.sty"
 Package: parskip 2001/04/09 non-zero parskip adjustments
 )
-("C:\Program Files (x86)\miktex\tex\latex\float\float.sty"
+("D:\Program Files\LaTeX\MiKTeX 2.9\tex\latex\float\float.sty"
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count88
 \float@exts=\toks15
 \float@box=\box26
 \@float@everytoks=\toks16
 \@floatcapt=\box27
-) (taak_2.aux)
+) (Taak_2.aux)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
 LaTeX Font Info:    ... okay on input line 19.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
@@ -77,7 +77,7 @@ LaTeX Font Info:    ... okay on input line 19.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
 LaTeX Font Info:    ... okay on input line 19.
 
-("C:\Program Files (x86)\miktex\tex\context\base\supp-pdf.mkii"
+("D:\Program Files\LaTeX\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count89
 \scratchdimen=\dimen105
@@ -105,8 +105,8 @@ Package pdftex.def Info: UHasselt-logo.jpg used on input line 51.
 (pdftex.def)             Requested size: 85.35826pt x 24.64613pt.
  [1
 
-{C:/Users/Niels/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./UHasselt-
-logo.jpg>] (taak_2.toc)
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <./UHasselt-logo.jpg>] (Ta
+ak_2.toc)
 \tf@toc=\write3
  [1] [2]
 <search.png, id=16, 570.63188pt x 233.37187pt>
@@ -148,7 +148,7 @@ Package pdftex.def Info: shortkeys.png used on input line 108.
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 114.
 
 
-("C:\Program Files (x86)\miktex\tex\latex\base\omscmr.fd"
+("D:\Program Files\LaTeX\MiKTeX 2.9\tex\latex\base\omscmr.fd"
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
@@ -181,13 +181,9 @@ Package pdftex.def Info: history.png used on input line 154.
 (pdftex.def)             Requested size: 390.0pt x 176.89313pt.
  [9 <./imgDownload.png> <./history.png>] [10]
 Missing character: There is no Ã in font cmr12!
-Missing character: There is no « in font cmr12!
-Missing character: There is no Ã in font cmr12!
 Missing character: There is no © in font cmr12!
 Missing character: There is no Ã in font cmr12!
 Missing character: There is no © in font cmr12!
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no ¯ in font cmr12!
 Missing character: There is no Ã in font cmr12!
 Missing character: There is no ¯ in font cmr12!
  [11]
@@ -213,8 +209,6 @@ File: Tabs_Chrome.png Graphic file (type png)
 <use Tabs_Chrome.png>
 Package pdftex.def Info: Tabs_Chrome.png used on input line 206.
 (pdftex.def)             Requested size: 350.99762pt x 19.15253pt.
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no « in font cmr12!
  <No_Changes.png, id=67, 345.54094pt x 118.19156pt>
 File: No_Changes.png Graphic file (type png)
 
@@ -311,7 +305,13 @@ Overfull \hbox (1.43205pt too wide) in paragraph at lines 350--357
 en-tie voor Chrome
  []
 
-[24] [25 <./marketshare.png>] [26] [27] [28] (taak_2.bbl
+[24] [25 <./marketshare.png>]
+Overfull \hbox (2.83759pt too wide) in paragraph at lines 373--376
+\OT1/cmr/m/n/12 bij het down-loaden is er een duideli-jke voort-gangs-balk en b
+ij het browsen
+ []
+
+[26] [27] [28] (Taak_2.bbl
 Underfull \hbox (badness 2608) in paragraph at lines 4--8
 []\OT1/cmr/m/n/12 Net Ap-pli-ca-tions.  Net mar-ket share of browsers on desk-t
 ops.
@@ -339,21 +339,22 @@ Underfull \hbox (badness 2865) in paragraph at lines 16--20
 sed:
  []
 
-) [29] (taak_2.aux) ) 
+) [29] (Taak_2.aux) ) 
 Here is how much of TeX's memory you used:
- 1376 strings out of 493673
- 18588 string characters out of 3143149
- 74990 words of memory out of 3000000
- 4724 multiletter control sequences out of 15000+200000
+ 1377 strings out of 493698
+ 18732 string characters out of 3141994
+ 74700 words of memory out of 3000000
+ 4703 multiletter control sequences out of 15000+200000
  10051 words of font info for 35 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
  27i,6n,19p,1309b,278s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files (x86)/miktex/fonts/type1/public/amsfonts
-/cm/cmbx12.pfb><C:/Program Files (x86)/miktex/fonts/type1/public/amsfonts/cm/cm
-csc10.pfb><C:/Program Files (x86)/miktex/fonts/type1/public/amsfonts/cm/cmr12.p
-fb><C:/Program Files (x86)/miktex/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:
-/Program Files (x86)/miktex/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on taak_2.pdf (30 pages, 674502 bytes).
+<D:/Program Files/LaTeX/MiKTeX 2.9/fonts/type1/public/amsf
+onts/cm/cmbx12.pfb><D:/Program Files/LaTeX/MiKTeX 2.9/fonts/type1/public/amsfon
+ts/cm/cmcsc10.pfb><D:/Program Files/LaTeX/MiKTeX 2.9/fonts/type1/public/amsfont
+s/cm/cmr12.pfb><D:/Program Files/LaTeX/MiKTeX 2.9/fonts/type1/public/amsfonts/c
+m/cmsy10.pfb><D:/Program Files/LaTeX/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
+cmti12.pfb>
+Output written on Taak_2.pdf (30 pages, 676245 bytes).
 PDF statistics:
  153 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
