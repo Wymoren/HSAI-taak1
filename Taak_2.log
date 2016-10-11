@@ -1,12 +1,12 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.10.5)  11 OCT 2016 12:03
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.10.11)  11 OCT 2016 15:07
 entering extended mode
-**Taak_2.tex
+**./Taak_2.tex
 (Taak_2.tex
-LaTeX2e <2014/05/01>
-Babel <3.9l> and hyphenation patterns for 68 languages loaded.
-("D:\Program Files\LaTeX\MiKTeX 2.9\tex\latex\base\article.cls"
+LaTeX2e <2016/03/31> patch level 3
+Babel <3.9r> and hyphenation patterns for 75 language(s) loaded.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
-("D:\Program Files\LaTeX\MiKTeX 2.9\tex\latex\base\size12.clo"
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size12.clo"
 File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
@@ -21,42 +21,42 @@ File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-("D:\Program Files\LaTeX\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
 Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
 
-("D:\Program Files\LaTeX\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks14
 )
-("D:\Program Files\LaTeX\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
-Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2016/07/10 v1.0t Standard LaTeX Graphics (DPC,SPQR)
 
-("D:\Program Files\LaTeX\MiKTeX 2.9\tex\latex\graphics\trig.sty"
-Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-("D:\Program Files\LaTeX\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
-File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: pdftex.def on input line 91.
+Package graphics Info: Driver file: pdftex.def on input line 99.
 
-("D:\Program Files\LaTeX\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
-File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
+File: pdftex.def 2016/07/10 v0.06j Graphics/color for pdfTeX
 
-("D:\Program Files\LaTeX\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
-Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
 )
-("D:\Program Files\LaTeX\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
-Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 )
 \Gread@gobject=\count87
 ))
 \Gin@req@height=\dimen103
 \Gin@req@width=\dimen104
 )
-("D:\Program Files\LaTeX\MiKTeX 2.9\tex\latex\ltxmisc\parskip.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\ltxmisc\parskip.sty"
 Package: parskip 2001/04/09 non-zero parskip adjustments
 )
-("D:\Program Files\LaTeX\MiKTeX 2.9\tex\latex\float\float.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\float\float.sty"
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count88
 \float@exts=\toks15
@@ -64,6 +64,8 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@float@everytoks=\toks16
 \@floatcapt=\box27
 ) (Taak_2.aux)
+\openout1 = `Taak_2.aux'.
+
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
 LaTeX Font Info:    ... okay on input line 19.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
@@ -77,7 +79,7 @@ LaTeX Font Info:    ... okay on input line 19.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
 LaTeX Font Info:    ... okay on input line 19.
 
-("D:\Program Files\LaTeX\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count89
 \scratchdimen=\dimen105
@@ -90,6 +92,50 @@ LaTeX Font Info:    ... okay on input line 19.
 \MPnumerator=\count93
 \makeMPintoPDFobject=\count94
 \everyMPtoPDFconversion=\toks18
+) ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
+Package: pdftexcmds 2016/05/21 v0.22 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 40.
@@ -97,266 +143,23 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 40.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 40.
- <UHasselt-logo.jpg, id=1, 1185.42876pt x 342.27875pt>
-File: UHasselt-logo.jpg Graphic file (type jpg)
 
-<use UHasselt-logo.jpg>
-Package pdftex.def Info: UHasselt-logo.jpg used on input line 51.
-(pdftex.def)             Requested size: 85.35826pt x 24.64613pt.
- [1
+! I can't write on file `Taak_2.pdf'.
+Please type another file name for output
+! Emergency stop.
+<argument> ...stobj \GPT@objref }}}\fi \pdfximage 
+                                                  \GPT@RuleAttr \ifx \GPT@pa...
+l.51 ...degraphics[width=3.0cm]{UHasselt-logo.jpg}
+                                                  \\[2.0cm]
+*** (job aborted, file error in nonstop mode)
 
-{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <./UHasselt-logo.jpg>] (Ta
-ak_2.toc)
-\tf@toc=\write3
- [1] [2]
-<search.png, id=16, 570.63188pt x 233.37187pt>
-File: search.png Graphic file (type png)
- <use search.png>
-Package pdftex.def Info: search.png used on input line 70.
-(pdftex.def)             Requested size: 390.0pt x 159.4991pt.
- [3]
-<autocomplete.png, id=20, 261.22594pt x 47.42719pt>
-File: autocomplete.png Graphic file (type png)
- <use autocomplete.png>
-Package pdftex.def Info: autocomplete.png used on input line 79.
-(pdftex.def)             Requested size: 272.99881pt x 49.56552pt.
-
-<smallUI.png, id=21, 434.37282pt x 51.94406pt>
-File: smallUI.png Graphic file (type png)
- <use smallUI.png>
-Package pdftex.def Info: smallUI.png used on input line 90.
-(pdftex.def)             Requested size: 312.00119pt x 37.3125pt.
-
-<extensions.png, id=22, 575.90157pt x 203.25937pt>
-File: extensions.png Graphic file (type png)
- <use extensions.png>
-Package pdftex.def Info: extensions.png used on input line 96.
-(pdftex.def)             Requested size: 350.99762pt x 123.88568pt.
-
-<helpcentrum.png, id=23, 615.80063pt x 345.54094pt>
-File: helpcentrum.png Graphic file (type png)
- <use helpcentrum.png>
-Package pdftex.def Info: helpcentrum.png used on input line 102.
-(pdftex.def)             Requested size: 312.00119pt x 175.07413pt.
-
-<shortkeys.png, id=24, 709.90219pt x 189.70876pt>
-File: shortkeys.png Graphic file (type png)
- <use shortkeys.png>
-Package pdftex.def Info: shortkeys.png used on input line 108.
-(pdftex.def)             Requested size: 312.00119pt x 83.37947pt.
- [4 <./search.png> <./autocomplete.png>]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 114.
-
-
-("D:\Program Files\LaTeX\MiKTeX 2.9\tex\latex\base\omscmr.fd"
-File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
-)
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 114.
-
-<back.png, id=28, 56.46094pt x 24.84282pt>
-File: back.png Graphic file (type png)
- <use back.png>
-Package pdftex.def Info: back.png used on input line 119.
-(pdftex.def)             Requested size: 39.00238pt x 17.16202pt.
- [5 <./smallUI.png> <./extensions.png>] [6 <./helpcentrum.png> <./shortkeys.png
->] [7 <./back.png>]
-<incognito.png, id=40, 371.88937pt x 301.8778pt>
-File: incognito.png Graphic file (type png)
- <use incognito.png>
-Package pdftex.def Info: incognito.png used on input line 132.
-(pdftex.def)             Requested size: 312.00119pt x 253.2716pt.
-
-<imgDownload.png, id=41, 265.59225pt x 104.18925pt>
-File: imgDownload.png Graphic file (type png)
- <use imgDownload.png>
-Package pdftex.def Info: imgDownload.png used on input line 141.
-(pdftex.def)             Requested size: 272.99881pt x 107.10625pt.
-
-[8 <./incognito.png>] <history.png, id=46, 494.59781pt x 224.33812pt>
-File: history.png Graphic file (type png)
-
-<use history.png>
-Package pdftex.def Info: history.png used on input line 154.
-(pdftex.def)             Requested size: 390.0pt x 176.89313pt.
- [9 <./imgDownload.png> <./history.png>] [10]
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no © in font cmr12!
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no © in font cmr12!
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no ¯ in font cmr12!
- [11]
-<NoConnection.jpg, id=57, 465.99094pt x 241.65282pt>
-File: NoConnection.jpg Graphic file (type jpg)
- <use NoConnection.jpg>
-Package pdftex.def Info: NoConnection.jpg used on input line 183.
-(pdftex.def)             Requested size: 272.99881pt x 141.57466pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 178--188
-\OT1/cmr/m/n/12 ers, ge-bruik-ers met gemid-delde ken-nis en ex-pert ge-bruik-e
-rs.
- []
-
-[12] <apps.png, id=62, 1204.5pt x 542.77782pt>
-File: apps.png Graphic file (type png)
- <use apps.png>
-Package pdftex.def Info: apps.png used on input line 194.
-(pdftex.def)             Requested size: 350.99762pt x 158.17177pt.
- [13 <./NoConnection.jpg>] <Tabs_Chrome.png, id=66, 1227.83719pt x 67.0003pt>
-File: Tabs_Chrome.png Graphic file (type png)
-
-<use Tabs_Chrome.png>
-Package pdftex.def Info: Tabs_Chrome.png used on input line 206.
-(pdftex.def)             Requested size: 350.99762pt x 19.15253pt.
- <No_Changes.png, id=67, 345.54094pt x 118.19156pt>
-File: No_Changes.png Graphic file (type png)
-
-<use No_Changes.png>
-Package pdftex.def Info: No_Changes.png used on input line 218.
-(pdftex.def)             Requested size: 350.99762pt x 120.05965pt.
- [14 <./apps.png> <./Tabs_Chrome.png>] [15 <./No_Changes.png>] <Chrome-Advanced
-.png, id=76, 501.875pt x 420.57124pt>
-File: Chrome-Advanced.png Graphic file (type png)
-
-<use Chrome-Advanced.png>
-Package pdftex.def Info: Chrome-Advanced.png used on input line 230.
-(pdftex.def)             Requested size: 350.99762pt x 294.14758pt.
- <Loading.png, id=77, 111.41624pt x 24.84282pt>
-File: Loading.png Graphic file (type png)
-
-<use Loading.png>
-Package pdftex.def Info: Loading.png used on input line 237.
-(pdftex.def)             Requested size: 155.99762pt x 34.78612pt.
- [16 <./Chrome-Advanced.png>] [17 <./Loading.png>]
-<imgSimpleUI.png, id=85, 575.14874pt x 75.8835pt>
-File: imgSimpleUI.png Graphic file (type png)
- <use imgSimpleUI.png>
-Package pdftex.def Info: imgSimpleUI.png used on input line 263.
-(pdftex.def)             Requested size: 350.99762pt x 46.31085pt.
-
-[18 <./imgSimpleUI.png>] <imgPaginaLaden.png, id=91, 275.8305pt x 51.19125pt>
-File: imgPaginaLaden.png Graphic file (type png)
-
-<use imgPaginaLaden.png>
-Package pdftex.def Info: imgPaginaLaden.png used on input line 276.
-(pdftex.def)             Requested size: 350.99762pt x 65.14494pt.
-
-Overfull \hbox (0.67928pt too wide) in paragraph at lines 273--284
-\OT1/cmr/m/n/12 Als we ge-bruik-ers in-de-len in groepen naarge-lang hun ken-ni
-s over web-browsers,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 273--284
-\OT1/cmr/m/n/12 meest ge-bruikte func-ties samen te voe-gen in een menu.
- []
-
-[19 <./imgPaginaLaden.png>]
-<imgShortcuts.png, id=96, 237.88875pt x 287.8755pt>
-File: imgShortcuts.png Graphic file (type png)
- <use imgShortcuts.png>
-Package pdftex.def Info: imgShortcuts.png used on input line 295.
-(pdftex.def)             Requested size: 155.99762pt x 188.78604pt.
-
-<imgVertaal.png, id=97, 202.356pt x 80.09924pt>
-File: imgVertaal.png Graphic file (type png)
- <use imgVertaal.png>
-Package pdftex.def Info: imgVertaal.png used on input line 304.
-(pdftex.def)             Requested size: 155.99762pt x 61.75237pt.
-File: imgDownload.png Graphic file (type png)
-
-<use imgDownload.png>
-Package pdftex.def Info: imgDownload.png used on input line 313.
-(pdftex.def)             Requested size: 155.99762pt x 61.19925pt.
-
-Overfull \hbox (6.70653pt too wide) in paragraph at lines 317--320
-\OT1/cmr/m/n/12 Het boven-staande voor-beeld is ook hier van toepass-ing. Chrom
-e probeert
- []
-
-[20] [21 <./imgShortcuts.png> <./imgVertaal.png>]
-<imgMiniatuur.png, id=106, 358.941pt x 245.718pt>
-File: imgMiniatuur.png Graphic file (type png)
- <use imgMiniatuur.png>
-Package pdftex.def Info: imgMiniatuur.png used on input line 325.
-(pdftex.def)             Requested size: 350.99762pt x 240.28082pt.
-
-<imgVertaalAltijd.png, id=107, 202.95825pt x 109.00725pt>
-File: imgVertaalAltijd.png Graphic file (type png)
-
-<use imgVertaalAltijd.png>
-Package pdftex.def Info: imgVertaalAltijd.png used on input line 334.
-(pdftex.def)             Requested size: 155.99762pt x 83.78613pt.
- [22 <./imgMiniatuur.png>] [23 <./imgVertaalAltijd.png>] <marketshare.png, id=1
-16, 659.46375pt x 250.68657pt>
-File: marketshare.png Graphic file (type png)
- <use marketshare.png>
-Package pdftex.def Info: marketshare.png used on input line 353.
-(pdftex.def)             Requested size: 429.00238pt x 163.08203pt.
-
-Overfull \hbox (39.00238pt too wide) in paragraph at lines 353--354
- [][] 
- []
-
-
-Overfull \hbox (1.43205pt too wide) in paragraph at lines 350--357
-\OT1/cmr/m/n/12 Door het grote aan-bod aan gratis browsers is er veel con-cur-r
-en-tie voor Chrome
- []
-
-[24] [25 <./marketshare.png>]
-Overfull \hbox (2.83759pt too wide) in paragraph at lines 373--376
-\OT1/cmr/m/n/12 bij het down-loaden is er een duideli-jke voort-gangs-balk en b
-ij het browsen
- []
-
-[26] [27] [28] (Taak_2.bbl
-Underfull \hbox (badness 2608) in paragraph at lines 4--8
-[]\OT1/cmr/m/n/12 Net Ap-pli-ca-tions.  Net mar-ket share of browsers on desk-t
-ops.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 10--14
-[]\OT1/cmr/m/n/12 Google.  Short-cuts in google chrome.
- []
-
-
-Underfull \hbox (badness 1033) in paragraph at lines 10--14
-\OT1/cmr/m/n/12 https://support.google.com/chrome/answer/157179?hl=en.  Ac-cess
-ed:
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 16--20
-[]\OT1/cmr/m/n/12 Google.  Chrome web store: ex-ten-sions.
- []
-
-
-Underfull \hbox (badness 2865) in paragraph at lines 16--20
-\OT1/cmr/m/n/12 https://chrome.google.com/webstore/category/extensions.  Ac-ces
-sed:
- []
-
-) [29] (Taak_2.aux) ) 
+ 
 Here is how much of TeX's memory you used:
- 1377 strings out of 493698
- 18732 string characters out of 3141994
- 74700 words of memory out of 3000000
- 4703 multiletter control sequences out of 15000+200000
- 10051 words of font info for 35 fonts, out of 3000000 for 9000
- 1025 hyphenation exceptions out of 8191
- 27i,6n,19p,1309b,278s stack positions out of 5000i,500n,10000p,200000b,50000s
-<D:/Program Files/LaTeX/MiKTeX 2.9/fonts/type1/public/amsf
-onts/cm/cmbx12.pfb><D:/Program Files/LaTeX/MiKTeX 2.9/fonts/type1/public/amsfon
-ts/cm/cmcsc10.pfb><D:/Program Files/LaTeX/MiKTeX 2.9/fonts/type1/public/amsfont
-s/cm/cmr12.pfb><D:/Program Files/LaTeX/MiKTeX 2.9/fonts/type1/public/amsfonts/c
-m/cmsy10.pfb><D:/Program Files/LaTeX/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
-cmti12.pfb>
-Output written on Taak_2.pdf (30 pages, 676245 bytes).
-PDF statistics:
- 153 PDF objects out of 1000 (max. 8388607)
- 0 named destinations out of 1000 (max. 500000)
- 121 words of extra memory for PDF output out of 10000 (max. 10000000)
-
+ 1553 strings out of 493334
+ 21901 string characters out of 3139254
+ 79818 words of memory out of 3000000
+ 5090 multiletter control sequences out of 15000+200000
+ 8831 words of font info for 31 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 40i,3n,25p,240b,256s stack positions out of 5000i,500n,10000p,200000b,50000s
+!  ==> Fatal error occurred, no output PDF file produced!
